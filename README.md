@@ -2,4 +2,4 @@
 This is my experimental website!
 # Credit
 @NotToxicDev (https://github.com/NotToxicDev) - Some coding    
-@Chromus (https://github.com/Chromus-dev) - All css work!
+@Chromus-dev (https://chromus-dev.github.io/Personal-Site/) - All css work!
