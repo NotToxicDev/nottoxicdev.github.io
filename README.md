@@ -1,4 +1,4 @@
-### My Website
+# My Website
 This is my experimental website!
 
 Check it out here: https://nottoxicdev.github.io/toxicsite/
