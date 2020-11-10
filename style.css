@@ -18,14 +18,3 @@ a {
 a:hover {
 	color: #bfbfbb;
 }
-
-/* ANIMATION */
-.menu-btn.open .menu-btnBurger {
-	background: transparent;
-}
-.menu-btn.open .menu-btnBurger::before {
-	transform: rotate(45deg);
-}
-.menu-btn.open .menu-btnBurger::after {
-	transform: rotate(-45deg);
-}
